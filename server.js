@@ -16,7 +16,7 @@ cron.schedule('*/5 * * * * *', function(){
     jobj['accounts receivable'] = ar;
 
     // 3.  Set userid and data source name
-    let userid = 'paul.c.cornwell@gmail.com';
+    let userid = 'youremail@somedomain.com';
     let dataSource = 'My Company Data';
     let apiKey = process.env.VM_KEY;
 
