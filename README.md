@@ -1,5 +1,5 @@
 # voiceenable_saas_sample
-Using a fictitious SaaS company named Bilr, this example shows to use a node.js cron job to enable data for voice assistants.
+Using a fictitious SaaS company named Bilr, this example shows how to use a node.js cron job with the Voice Metrics API to enable data for voice assistants.
 
 To run:
 
